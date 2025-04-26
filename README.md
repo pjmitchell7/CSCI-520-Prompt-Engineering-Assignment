@@ -4,9 +4,9 @@ This repository contains the full submission for Assignment 3 of the Generative 
 
 ## Contents
 
-- `prompt_engineering.ipynb`: Main notebook used for automating prompts and collecting model responses.
-- `Assignment3_Results.csv`: Contains all prompt–output pairs for each task.
-- `Assignment3_PromptEngineeringTable.docx.pdf`: Final formatted document with side-by-side output comparisons and merged analysis for each task.
+- `prompt_engineering_pmitchell.ipynb`: Main notebook used for automating prompts and collecting model responses.
+- `Assignment3_Results_WithBLEU.csv`: Contains all prompt–output pairs for each task.
+- `Assignment3_PromptEngineeringTable.pdf`: Final formatted document with side-by-side output comparisons and merged analysis for each task.
 
 ## Task Structure
 
